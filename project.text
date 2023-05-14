@@ -1,0 +1,20 @@
+Next you can start
+
+https://jwxkwap.miit.gov.cn/certificateQuery
+Click '更多查询条件', which translates into 'More query conditions'
+Then in '设备类别', which translates into 'Equipment category' field, select '移动电话', which translates into 'mobile phone'. This is the 2nd option in the dropdown.
+Now click '查询, which translates into 'Inquire'.
+
+Now there will be a table with 30 rows of data in 3 columns.
+Column A will have only model numbers. Column B will always have '查看' (meaning, "Check") and column C will always have '查看图片' (meaning, "view image").
+If you click on cell in column B, it will open to a new page. We need that URL captured and written to csv and sent to mail if needed.
+Note: You don't have to translate the text before writing to csv or sending mail. It can be in the same language.
+
+During the first run, write values in all these three columns (for all 30 rows) to the csv. Unique value here is the model number in Column A.
+The fixed text in column B should be hyperlinked correctly.
+I will run the code once every few hours to see if new data has come.
+If new data is present, the code will check the existing table to see if the model number (in column A) is already present in the csv or not.
+If the model number is new, the code will write to the csv and send mail. If the model number is already present, then skip.
+
+While sending mail, it should also be in table format with all values along with links, just like how you see in the above website.
+I will just click the link (in column B) from mail to access the required page/info.
