@@ -1,31 +1,35 @@
-acceptid,licenseNo,equipmentModel,url
-23022544,00-6467-238480,ZTE A2024H,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-6467-238480&acceptid=23022544
-23022931,00-B467-238472,BD202305,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-B467-238472&acceptid=23022931
-23022955,00-5865-218748,Philips E308,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-5865-218748&acceptid=23022955
-23022957,00-5865-218754,Philips E309,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-5865-218754&acceptid=23022957
-23022973,00-B324-228501,2207122MC,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-B324-228501&acceptid=23022973
-23022995,00-B182-218105,LE2110,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-B182-218105&acceptid=23022995
-23022996,00-B182-218112,LE2120,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-B182-218112&acceptid=23022996
-23022998,00-B182-218137,LE2100,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-B182-218137&acceptid=23022998
-23023039,00-B674-228444,LNVF9721,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-B674-228444&acceptid=23023039
-23023058,02-G305-231393,CX20221011,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-G305-231393&acceptid=23023058
-23023059,00-A177-218579,MOLOO A6,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-A177-218579&acceptid=23023059
-23023061,00-A177-218640,MOLOO A7,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-A177-218640&acceptid=23023061
-23023065,00-C904-218575,NM2021035G,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-C904-218575&acceptid=23023065
-23023068,00-C904-228425,20220308,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-C904-228425&acceptid=23023068
-23023069,00-C904-228445,20220309,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-C904-228445&acceptid=23023069
-23023077,00-8573-228776,A2896,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-8573-228776&acceptid=23023077
-23023078,00-8573-228778,A2892,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-8573-228778&acceptid=23023078
-23023079,00-8573-228777,A2888,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-8573-228777&acceptid=23023079
-23023080,00-8573-228775,A2884,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-8573-228775&acceptid=23023080
-23023120,02-C265-231413,2022-L6,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-C265-231413&acceptid=23023120
-23023124,02-A724-231402,AGM_Note_N1,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-A724-231402&acceptid=23023124
-23023125,02-F725-231410,XD-SEE00-2301,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-F725-231410&acceptid=23023125
-23023136,00-A742-218600,ASUS_I007D,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-A742-218600&acceptid=23023136
-23022100,00-E515-208917,KT659(5G) -S1,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-E515-208917&acceptid=23022100
-23022275,02-C406-231264,TA-1170,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-C406-231264&acceptid=23022275
-23022619,02-C406-231215,TA-1189,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-C406-231215&acceptid=23022619
-23022628,02-C406-201170,TA-1253,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-C406-201170&acceptid=23022628
-23022629,02-C406-201224,TA-1246,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-C406-201224&acceptid=23022629
-23022678,00-G858-238445,HK-2301,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-G858-238445&acceptid=23022678
-23022679,00-G143-228572,QSN2207,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-G143-228572&acceptid=23022679
+acceptid,licenseNo,equipmentModel,has_image,url
+23022544,00-6467-238480,ZTE A2024H,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-6467-238480&acceptid=23022544
+23022931,00-B467-238472,BD202305,Yes,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-B467-238472&acceptid=23022931
+23022955,00-5865-218748,Philips E308,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-5865-218748&acceptid=23022955
+23022957,00-5865-218754,Philips E309,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-5865-218754&acceptid=23022957
+23022973,00-B324-228501,2207122MC,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-B324-228501&acceptid=23022973
+23022995,00-B182-218105,LE2110,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-B182-218105&acceptid=23022995
+23022996,00-B182-218112,LE2120,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-B182-218112&acceptid=23022996
+23022998,00-B182-218137,LE2100,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-B182-218137&acceptid=23022998
+23023039,00-B674-228444,LNVF9721,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-B674-228444&acceptid=23023039
+23023058,02-G305-231393,CX20221011,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-G305-231393&acceptid=23023058
+23023059,00-A177-218579,MOLOO A6,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-A177-218579&acceptid=23023059
+23023061,00-A177-218640,MOLOO A7,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-A177-218640&acceptid=23023061
+23023065,00-C904-218575,NM2021035G,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-C904-218575&acceptid=23023065
+23023068,00-C904-228425,20220308,Yes,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-C904-228425&acceptid=23023068
+23023069,00-C904-228445,20220309,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-C904-228445&acceptid=23023069
+23023077,00-8573-228776,A2896,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-8573-228776&acceptid=23023077
+23023078,00-8573-228778,A2892,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-8573-228778&acceptid=23023078
+23023079,00-8573-228777,A2888,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-8573-228777&acceptid=23023079
+23023080,00-8573-228775,A2884,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-8573-228775&acceptid=23023080
+23023120,02-C265-231413,2022-L6,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-C265-231413&acceptid=23023120
+23023124,02-A724-231402,AGM_Note_N1,Yes,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-A724-231402&acceptid=23023124
+23023125,02-F725-231410,XD-SEE00-2301,Yes,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-F725-231410&acceptid=23023125
+23023136,00-A742-218600,ASUS_I007D,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-A742-218600&acceptid=23023136
+23022100,00-E515-208917,KT659(5G) -S1,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-E515-208917&acceptid=23022100
+23022275,02-C406-231264,TA-1170,Yes,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-C406-231264&acceptid=23022275
+23022619,02-C406-231215,TA-1189,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-C406-231215&acceptid=23022619
+23022628,02-C406-201170,TA-1253,Yes,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-C406-201170&acceptid=23022628
+23022629,02-C406-201224,TA-1246,Yes,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-C406-201224&acceptid=23022629
+23022678,00-G858-238445,HK-2301,Yes,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-G858-238445&acceptid=23022678
+23022679,00-G143-228572,QSN2207,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-G143-228572&acceptid=23022679
+23022544,00-6467-238480,ZTE A2024H,No,
+23023120,02-C265-231413,2022-L6,Yes,
+23023068,00-C904-228425,20220308,No,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=00-C904-228425&acceptid=23023068
+23023120,02-C265-231413,2022-L6,Yes,https://jwxkwap.miit.gov.cn/licenseNoQuery?licenseNo=02-C265-231413&acceptid=23023120
